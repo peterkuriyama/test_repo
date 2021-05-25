@@ -3,3 +3,5 @@ test script
 add another line
 
 add third line
+
+add fourth line
